@@ -1,0 +1,17 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### Compilados y artefactos de Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Logs y temporales del sistema ###
+*.log
+.DS_Store
+Thumbs.db
